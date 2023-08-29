@@ -1,0 +1,1 @@
+A machine learning project which predicts the sentiment behind a hindi statement.
